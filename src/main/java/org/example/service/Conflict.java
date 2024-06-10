@@ -1,5 +1,5 @@
 package org.example.service;
 
 public class Conflict {
-    // provoke git conflict
+    // modified by Rassul to provoke merge conflict
 }
